@@ -286,3 +286,4 @@ replace github.com/Psiphon-Labs/quic-go => ./hiddify-sing-box/replace/psiphon-qu
 replace github.com/Psiphon-Labs/psiphon-tls => ./hiddify-sing-box/replace/psiphon-tls
 
 replace github.com/net2share/vaydns => github.com/hiddify/vaydns v0.0.0-20260401180616-890dc987a6a9
+replace github.com/sagernet/sing-vmess => github.com/truvvor/sing-vmess v0.0.0-20260414125334-1439c0afb5d9
